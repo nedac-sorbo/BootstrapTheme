@@ -16,6 +16,9 @@
         "sylius/sylius": "1.9.*"
     },
     "extra": {
+        "branch-alias": {
+            "dev-1.9": "1.9.x-dev"
+        },
         "sylius-theme": {
             "title": "Sylius Bootstrap Theme"
         }
