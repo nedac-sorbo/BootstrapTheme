@@ -13,12 +13,9 @@
 	}
     ],
     "require": {
-        "sylius/sylius": "1.9.*"
+        "sylius/sylius": "1.10.*"
     },
     "extra": {
-        "branch-alias": {
-            "dev-1.9": "1.9.x-dev"
-        },
         "sylius-theme": {
             "title": "Sylius Bootstrap Theme"
         }
